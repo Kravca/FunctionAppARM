@@ -6,4 +6,4 @@ Sample ARM template:
 
 https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/201-function-app-dedicated-github-deploy/azuredeploy.json
 
-Deploy template by specifying https://github.com/Kravca/FunctionAppARM.git in the parametyers to deploy code from this project.
+Deploy template by specifying https://github.com/Kravca/FunctionAppARM.git in the parameters to deploy code from this project.
